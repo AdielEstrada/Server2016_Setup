@@ -41,4 +41,6 @@ Then, the following screen will pop-up.
 
 This is showing you options of the "hardware" your virtual machine may have. You can leave the defaults, or customize depending on the hardware on your actual computer. In my case, I am using a laptop, so the defaults are fine. After this, we can hit next. 
 
+This screen pops up:
+
 
