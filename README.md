@@ -29,5 +29,16 @@ This will take you to a page where you are able to choose what version of Window
 
 ## Setting Up Virtualbox with Server 2016
 
+Open up VirtualBox, and follow the steps on the following image:
+
+> For step 3, just make sure those options are placed.
 
 <img src="https://i.ibb.co/j8mh2LX/5-CVE-New-Virtual-Machine.png">
+
+Then, the following screen will pop-up.
+
+<img src="https://i.ibb.co/cJ5yQP4/6-Choosing-hardware.png">
+
+This is showing you options of the "hardware" your virtual machine may have. You can leave the defaults, or customize depending on the hardware on your actual computer. In my case, I am using a laptop, so the defaults are fine. After this, we can hit next. 
+
+
