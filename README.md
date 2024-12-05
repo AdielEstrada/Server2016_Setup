@@ -71,3 +71,9 @@ A screen saying "Install Now" will pop-up. Click Install Now.
 
 Various options for download will appear. Choose the Windows Server 2016 Standard Evaluation (Desktop Experience). This will allow us to use Server 2016 like a computer. On the bottom, it explains that this version uses a GUI or Graphical User Interface. It's basically telling you it's going to look like windows, rather than just being a command-line. Once we select this option, we click next.  
 
+Accept the license agreement, and click next. 
+
+A screen asking you what type of installation you want will appear. The two options are an upgrade, and a custom install. Since we are installing Windows Server from scratch, we will choose a custom install. 
+
+<img src="https://i.ibb.co/0ZtTFHM/17-Custom-install.png">
+
