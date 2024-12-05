@@ -65,5 +65,9 @@ To choose a bootable media, (in our case, the ISO file we downloaded previously)
 
 <img src="https://i.ibb.co/LgfpPNn/13-Windows-setup.png">
 
-A good practice is to verify the information before we click next. In my case, the information is correct, so we click next.
+A good practice is to verify the information before we click next. In my case, the information is correct, so we click next. 
+
+A screen saying "Install Now" will pop-up. Click Install Now. 
+
+Various options for download will appear. Choose the Windows Server 2016 Standard Evaluation (Desktop Experience). This will allow us to use Server 2016 like a computer. On the bottom, it explains that this version uses a GUI or Graphical User Interface. It's basically telling you it's going to look like windows, rather than just being a command-line. Once we select this option, we click next.  
 
