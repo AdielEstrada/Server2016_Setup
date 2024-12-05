@@ -61,4 +61,9 @@ Click on Start. This will start up your VM. However, since there is no operating
 
 <img src="https://i.ibb.co/swN9YPD/10-Decide-boot-order.png">
 
-To choose a bootable media, (in our case, the ISO file we downloaded previously) click on the drop-down arrow beside DVD. This will open File Explorer, where we are able to look for the ISO file we downloaded. 
+To choose a bootable media, (in our case, the ISO file we downloaded previously) click on the drop-down arrow beside DVD. This will open File Explorer, where we are able to look for the ISO file we downloaded. Once we select the file, and click open on File Explorer, the name of the File will be placed beside DVD. Verify that it is the correct file, and click Mount and Retry Boot. It might take a while to load, but then a Windows setup screen should apppear. 
+
+<img src="https://i.ibb.co/LgfpPNn/13-Windows-setup.png">
+
+A good practice is to verify the information before we click next. In my case, the information is correct, so we click next.
+
