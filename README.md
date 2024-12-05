@@ -27,7 +27,7 @@ This will take you to a page where you are able to choose what version of Window
 
 > Make sure you locate where the file is downloaded. You could do this by going to File explorer, or by dragging the downloaded file to your desktop. The important thing is that you know where the file is, since you will need that information later.
 
-## Setting Up Virtualbox with Server 2016
+## Creating a Virtual Machine (VM) on VirtualBox
 
 Open up VirtualBox, and follow the steps on the following image:
 
@@ -43,4 +43,22 @@ This is showing you options of the "hardware" your virtual machine may have. You
 
 This screen pops up:
 
+<img src="https://i.ibb.co/p4cnqNK/7-Virtual-Hard-Disk.png">
 
+Once again, the defaults are fine. We click next, and the following screen pops up.
+
+<img src="https://i.ibb.co/RcQRVTG/8-Summary.png">
+
+Here, you'll see a summary of the options you just chose. Verify they are correct, and click Finish. Now, your virtual machine is created. 
+
+
+## Downloading Server 2016 on VM
+By this point, you should have a screen that looks something like this:
+
+<img src="https://i.ibb.co/vxZbVgJ/9-Start.png">
+
+Click on Start. This will start up your VM. However, since there is no operating system (OS) installed, the following message will pop-up, asking you to insert bootable media. 
+
+<img src="https://i.ibb.co/swN9YPD/10-Decide-boot-order.png">
+
+To choose a bootable media, (in our case, the ISO file we downloaded previously) click on the drop-down arrow beside DVD. This will open File Explorer, where we are able to look for the ISO file we downloaded. 
