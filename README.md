@@ -77,3 +77,17 @@ A screen asking you what type of installation you want will appear. The two opti
 
 <img src="https://i.ibb.co/0ZtTFHM/17-Custom-install.png">
 
+Now, it will prompt you to partition the drive for the install. We don't need to do anything for this to happen, so we just need to click Next. 
+
+<img src="https://i.ibb.co/5rN1ngC/18-Partition.png">
+
+After that, Server 2016 should start downloading, and a screen will pop up that shows you that this is happening. Just let it do its thing. It should reboot after that. 
+
+## Setting Up Admin Account
+You should be greeted with a screen prompting you to create a password for your admin account.
+
+<img src="https://i.ibb.co/rb8nhqK/20-Setting-up-password.png">
+
+Once you create a password, click Finish. You will see the following screen:
+
+<img src="https://i.ibb.co/X39649t/21-control-alt-delete.png">
