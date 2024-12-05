@@ -91,3 +91,7 @@ You should be greeted with a screen prompting you to create a password for your 
 Once you create a password, click Finish. You will see the following screen:
 
 <img src="https://i.ibb.co/X39649t/21-control-alt-delete.png">
+
+For VirtualBox, to press ctrl + alt + delete, you have to go to the input tab, then to keyboard, and then to a button that says "insert ctrl+alt+delete". After that, you are able to log in, and...
+
+CONGRATS! You've set up Server 2016!
