@@ -1,4 +1,4 @@
-# Setting Up Server 2016
+# Part 1 - Setting Up Server 2016
 
 ## Software Used:
 VirtualBox, Server 2016 Evaluation
