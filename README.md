@@ -5,7 +5,8 @@ VirtualBox, Server 2016 Evaluation
 
 ## Obtaining Server 2016 ISO file
 
-> Note that you first need to download virtualbox from the internet. You just look up virtualbox download on a browser, and it should be the first or second option. Look for an option to download that suits your computer specifications, and click download. Open the installation file and follow the prompts. From there, you should be set.
+> [!NOTE]
+> You first need to download virtualbox from the internet. You just look up "virtualbox download" on a browser, and it should be the first or second option. Look for an option to download that suits your computer specifications, and click download. Open the installation file and follow the prompts. From there, you should be set.
 
 Open your web browser, and paste the following link: https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2016
 
